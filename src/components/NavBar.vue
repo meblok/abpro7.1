@@ -1,6 +1,6 @@
 <template>
-<div>
-<div class=" sticky-top">
+
+<div class="sticky-top">
   <nav class="navbar navbar-expand-lg navbar-light bg-light ">
     <div class="container">
       <a class="navbar-brand" href="#">Cursos de Programación</a>
@@ -21,7 +21,6 @@
   </nav>
 </div>
 
-</div>
 </template>
 
 <script>

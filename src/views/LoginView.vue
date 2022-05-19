@@ -1,5 +1,7 @@
 <template>
+<div class="fondo">
   <Login/>
+</div>
 </template>
 
 <script>
@@ -13,5 +15,11 @@ export default {
 </script>
 
 <style>
+.fondo {
+  margin: 0;
+  padding: 0;
+  background-color: #17a2b8;
+  height: 100vh;
+}
 
 </style>
