@@ -15,6 +15,9 @@
           <li class="nav-item">
             <a class="nav-link" href=""><router-link to="/">Logout</router-link></a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href=""><router-link to="/pokemon">Pokemon</router-link></a>
+          </li>
         </ul>
       </div>
     </div>
@@ -27,8 +30,8 @@
 export default {
     components:{
 
-    }
-
+    },
+  
 }
 </script>
 
